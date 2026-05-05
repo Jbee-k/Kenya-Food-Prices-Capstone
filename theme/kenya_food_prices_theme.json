@@ -1,0 +1,66 @@
+{
+  "name": "Kenya Food Prices - Brand Theme",
+  "dataColors": [
+    "#980016",
+    "#04143D",
+    "#C73140",
+    "#2A4172",
+    "#6B0010",
+    "#5A6B85",
+    "#E26B7A",
+    "#DADADF"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#04143D",
+  "tableAccent": "#980016",
+  "good": "#04143D",
+  "neutral": "#DADADF",
+  "bad": "#980016",
+  "minimum": "#FFFFFF",
+  "center": "#DADADF",
+  "maximum": "#980016",
+  "textClasses": {
+    "title": {
+      "fontSize": 24,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#04143D"
+    },
+    "header": {
+      "fontSize": 18,
+      "fontFace": "Segoe UI Semibold",
+      "color": "#04143D"
+    },
+    "label": {
+      "fontSize": 11,
+      "fontFace": "Segoe UI",
+      "color": "#04143D"
+    },
+    "callout": {
+      "fontSize": 36,
+      "fontFace": "Segoe UI",
+      "color": "#980016"
+    }
+  },
+  "visualStyles": {
+    "card": {
+      "*": {
+        "background": [{"show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+        "border": [{"show": true, "color": {"solid": {"color": "#DADADF"}}, "radius": 4}],
+        "labels": [{"color": {"solid": {"color": "#980016"}}, "fontSize": 32, "fontFamily": "Segoe UI Semibold"}],
+        "categoryLabels": [{"color": {"solid": {"color": "#04143D"}}, "fontSize": 11, "fontFamily": "Segoe UI"}]
+      }
+    },
+    "*": {
+      "*": {
+        "title": [{"fontColor": {"solid": {"color": "#04143D"}}, "fontFamily": "Segoe UI Semibold", "fontSize": 14}],
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}],
+        "border": [{"show": false}]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{"color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0}]
+      }
+    }
+  }
+}

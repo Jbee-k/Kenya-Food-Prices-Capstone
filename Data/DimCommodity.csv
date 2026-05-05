@@ -1,0 +1,52 @@
+CommodityID,CommodityName,Category,IsKenyaStaple
+50,Beans,pulses and nuts,True
+51,Maize,cereals and tubers,True
+52,Rice,cereals and tubers,True
+55,Bread,cereals and tubers,False
+58,Wheat flour,cereals and tubers,True
+65,Sorghum,cereals and tubers,False
+67,Maize (white),cereals and tubers,True
+76,Maize flour,cereals and tubers,True
+96,Oil (vegetable),oil and fats,True
+97,Sugar,miscellaneous food,True
+110,Onions (red),vegetables and fruits,False
+114,Tomatoes,vegetables and fruits,False
+134,Maize flour (white),cereals and tubers,False
+135,Sorghum (white),cereals and tubers,False
+141,Meat (beef),"meat, fish and eggs",False
+148,Potatoes (Irish),cereals and tubers,False
+180,Beans (kidney),pulses and nuts,False
+181,Cabbage,vegetables and fruits,False
+185,Salt,miscellaneous food,True
+218,Cowpeas,pulses and nuts,False
+254,Bananas,vegetables and fruits,False
+262,Beans (dry),pulses and nuts,True
+282,Sorghum (red),cereals and tubers,False
+283,Fuel (kerosene),non-food,False
+284,Fuel (diesel),non-food,False
+285,Fuel (petrol-gasoline),non-food,False
+344,Meat (camel),"meat, fish and eggs",False
+353,Millet (finger),cereals and tubers,False
+393,Beans (mung),pulses and nuts,False
+404,Spinach,vegetables and fruits,False
+439,"Milk (cow, fresh)",milk and dairy,False
+440,"Maize (white, dry)",cereals and tubers,True
+451,Meat (goat),"meat, fish and eggs",False
+472,"Milk (cow, pasteurized)",milk and dairy,False
+494,"Oil (vegetable, fortified)",oil and fats,False
+793,Cooking fat,oil and fats,False
+794,Milk (UHT),milk and dairy,True
+796,Kale,vegetables and fruits,True
+817,"Milk (camel, fresh)",milk and dairy,False
+888,"Rice (imported, Pakistan)",cereals and tubers,False
+889,Beans (yellow),pulses and nuts,False
+890,"Potatoes (Irish, red)",cereals and tubers,False
+891,"Potatoes (Irish, white)",cereals and tubers,False
+892,Onions (dry),vegetables and fruits,False
+894,Rice (aromatic),cereals and tubers,True
+895,"Fish (omena, dry)","meat, fish and eggs",False
+896,Beans (dolichos),pulses and nuts,False
+897,Beans (rosecoco),pulses and nuts,True
+898,Cowpea leaves,vegetables and fruits,False
+901,Cowpeas (dry),pulses and nuts,False
+937,Pigeon peas (dry),pulses and nuts,False

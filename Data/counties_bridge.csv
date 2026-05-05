@@ -1,0 +1,227 @@
+MarketID,MarketName,Province,District,County,IsRefugeeCamp,RefugeeComplex,Latitude,Longitude,RecordCount
+184,Nairobi,Nairobi,Nairobi,Nairobi,FALSE,,-1.28,36.82,1222
+185,Eldoret town (Uasin Gishu),Rift Valley,Uasin Gishu,Uasin Gishu,FALSE,,0.52,35.28,1052
+186,Kisumu,Nyanza,Kisumu,Kisumu,FALSE,,-0.1,34.75,744
+187,Kitui,Eastern,Kitui,Kitui,FALSE,,-1.37,38.02,477
+188,Lodwar (Turkana),Rift Valley,Turkana,Turkana,FALSE,,3.12,35.6,116
+189,Mandera,North Eastern,Mandera,Mandera,FALSE,,3.94,41.86,193
+190,Marsabit,Eastern,Marsabit,Marsabit,FALSE,,2.33,37.98,169
+191,Mombasa,Coast,Mombasa,Mombasa,FALSE,,-4.05,39.67,435
+1850,Nakuru,Rift Valley,Nakuru,Nakuru,FALSE,,-0.28,36.07,377
+1851,Marigat (Baringo),Rift Valley,Baringo,Baringo,FALSE,,0.46,35.96,61
+1852,Kilifi,Coast,Kilifi,Kilifi,FALSE,,-3.63,39.85,64
+1853,Kajiado,Rift Valley,Kajiado,Kajiado,FALSE,,-1.84,36.79,80
+1854,Hola (Tana River),Coast,Tana River,Tana River,FALSE,,,,39
+1855,Garissa,North Eastern,Garissa,Garissa,FALSE,,-0.46,39.65,59
+3243,Dadaab town,North Eastern,Garissa,Garissa,TRUE,Dadaab,0.06,40.31,61
+3244,Kalobeyei (Village 1),Rift Valley,Turkana,Turkana,TRUE,Kalobeyei,3.77,34.73,437
+3245,Mogadishu (Kakuma),Rift Valley,Turkana,Turkana,TRUE,Kakuma,3.72,34.85,360
+3246,Kalobeyei (Village 2),Rift Valley,Turkana,Turkana,TRUE,Kalobeyei,3.76,34.75,412
+3247,Kalobeyei (Village 3),Rift Valley,Turkana,Turkana,TRUE,Kalobeyei,3.75,34.76,358
+3248,Kakuma 2,Rift Valley,Turkana,Turkana,TRUE,Kakuma,3.75,34.82,430
+3249,Kakuma 4,Rift Valley,Turkana,Turkana,TRUE,Kakuma,3.74,34.81,473
+3250,HongKong (Kakuma),Rift Valley,Turkana,Turkana,TRUE,Kakuma,3.75,34.84,409
+3251,Kakuma 3,Rift Valley,Turkana,Turkana,TRUE,Kakuma,3.77,34.82,550
+3252,Dagahaley (Daadab),North Eastern,Garissa,Garissa,TRUE,Dadaab,0.19,40.29,455
+3253,Ethiopia (Kakuma),Rift Valley,Turkana,Turkana,TRUE,Kakuma,3.72,34.85,369
+3254,Hagadera (Daadab),North Eastern,Garissa,Garissa,TRUE,Dadaab,0.01,40.37,509
+3255,IFO (Daadab),North Eastern,Garissa,Garissa,TRUE,Dadaab,0.11,40.32,509
+3256,Kakuma town,Rift Valley,Turkana,Turkana,TRUE,Kakuma,3.71,34.86,18
+3258,Kalokol,Rift Valley,Turkana,Turkana,FALSE,,3.54,35.86,54
+3262,Isiolo town,Eastern,Isiolo,Isiolo,FALSE,,0.35,37.58,70
+3263,El Wak,North Eastern,Mandera,Mandera,FALSE,,2.81,40.93,22
+3266,Rhamu,North Eastern,Mandera,Mandera,FALSE,,3.93,41.22,39
+3267,Takaba (Mandera),North Eastern,Mandera,Mandera,FALSE,,3.39,40.23,143
+3269,Moyale town,Eastern,Moyale,Marsabit,FALSE,,3.51,39.05,21
+3271,Wajir town,North Eastern,Wajir,Wajir,FALSE,,1.75,40.06,81
+3355,Marigat town (Baringo),Rift Valley,Baringo,Baringo,FALSE,,0.47,35.98,292
+3356,Garissa town (Garissa),North Eastern,Garissa,Garissa,FALSE,,-0.46,39.64,331
+3357,Mandera town,North Eastern,Mandera,Mandera,FALSE,,3.94,41.85,29
+3358,Marsabit town,Eastern,Marsabit,Marsabit,FALSE,,2.33,37.99,62
+3359,Hola town,Coast,Tana River,Tana River,FALSE,,-1.5,40.03,55
+3360,Lodwar town,Rift Valley,Turkana,Turkana,FALSE,,3.12,35.6,96
+4235,Junda (Mombasa),Coast,Mombasa,Mombasa,FALSE,,-4.01,39.68,68
+4236,Moroto (Mombasa),Coast,Mombasa,Mombasa,FALSE,,-4.03,39.66,58
+4238,Bangladesh (Mombasa),Coast,Mombasa,Mombasa,FALSE,,-4.01,39.63,72
+4239,Kalahari (Mombasa),Coast,Mombasa,Mombasa,FALSE,,-4.03,39.63,93
+4242,Shonda (Mombasa),Coast,Mombasa,Mombasa,FALSE,,-4.11,39.65,59
+4244,Shauri Yako,Coast,Mombasa,Mombasa,FALSE,,-4.04,39.69,27
+4245,Kisumu Ndogo (Mombasa),Coast,Mombasa,Mombasa,FALSE,,-4.04,39.69,48
+4525,Lpus,Rift Valley,Samburu,Samburu,FALSE,,0.89,37.06,22
+4526,Kisima,Rift Valley,Samburu,Samburu,FALSE,,0.95,36.77,18
+4528,Lengusaka,Rift Valley,Samburu,Samburu,FALSE,,0.88,37.32,13
+4531,Lolkuniyani,Rift Valley,Samburu,Samburu,FALSE,,1.06,37.23,22
+4532,Loosuk,Rift Valley,Samburu,Samburu,FALSE,,1.02,36.58,32
+4533,Maralal,Rift Valley,Samburu,Samburu,FALSE,,1.1,36.7,36
+4535,Suguta,Rift Valley,Samburu,Samburu,FALSE,,0.83,36.69,37
+4536,Wamba,Rift Valley,Samburu,Samburu,FALSE,,0.98,37.32,37
+4624,Mathare (Nairobi),Nairobi,Nairobi,Nairobi,FALSE,,-1.26,36.86,130
+4625,Kawangware (Nairobi),Nairobi,Nairobi,Nairobi,FALSE,,-1.28,36.74,135
+4626,Kangemi (Nairobi),Nairobi,Nairobi,Nairobi,FALSE,,-1.27,36.74,405
+4627,Kibra (Nairobi),Nairobi,Nairobi,Nairobi,FALSE,,-1.32,36.78,127
+4628,Dandora (Nairobi),Nairobi,Nairobi,Nairobi,FALSE,,-1.25,36.9,122
+4629,Mukuru (Nairobi),Nairobi,Nairobi,Nairobi,FALSE,,-1.3,36.88,130
+5664,Illbissil Food Market (Kajiado),Rift Valley,Kajiado,Kajiado,FALSE,,-2.1,36.79,101
+5665,Tala Centre Market (Machakos),Eastern,Machakos,Machakos,FALSE,,-1.27,37.32,203
+5666,Kathonzweni (Makueni),Eastern,Makueni,Makueni,FALSE,,-1.91,37.73,158
+5667,Makueni,Eastern,Makueni,Makueni,FALSE,,-1.81,37.62,30
+5668,Kaanwa (Tharaka Nithi),Eastern,Meru South,Tharaka-Nithi,FALSE,,-0.32,37.72,146
+5669,Wakulima (Nakuru),Rift Valley,Nakuru,Nakuru,FALSE,,-0.3,36.08,304
+5670,Karatina (Nyeri),Central,Nyeri,Nyeri,FALSE,,-0.48,37.13,194
+5671,Kibuye (Kisumu),Nyanza,Kisumu,Kisumu,FALSE,,-0.09,34.77,217
+5672,Kongowea (Mombasa),Coast,Mombasa,Mombasa,FALSE,,-4.06,39.66,145
+5697,Kitengela (Kajiado),Nairobi,Nairobi,Nairobi,FALSE,,-1.29,36.86,261
+5698,Wakulima (Nairobi),Nairobi,Nairobi,Nairobi,FALSE,,-1.29,36.83,96
+5892,Kitui town (Kitui),Eastern,Kitui,Kitui,FALSE,,-1.36,38.01,54
+5893,Vanga (Kwale),Coast,Kwale,Kwale,FALSE,,-4.66,39.22,4
+5894,Lokichar (Turkana),Rift Valley,Turkana,Turkana,FALSE,,2.38,35.65,40
+5896,Lomut (West Pokot),Rift Valley,West Pokot,West Pokot,FALSE,,1.44,35.57,118
+5897,Makutano (West Pokot),Rift Valley,West Pokot,West Pokot,FALSE,,1.25,35.08,207
+6109,Kalobeyei town,Rift Valley,Turkana,Turkana,TRUE,Kalobeyei,3.77,34.62,8
+6218,Laisamis Town,Eastern,Marsabit,Marsabit,FALSE,,1.58,37.8,24
+6219,Maikona,Eastern,Marsabit,Marsabit,FALSE,,2.92,37.63,5
+6220,Merille Town,Eastern,Marsabit,Marsabit,FALSE,,1.42,37.72,24
+6222,North Horr,Eastern,Marsabit,Marsabit,FALSE,,3.32,37.07,13
+6224,Korr,Eastern,Marsabit,Marsabit,FALSE,,2.01,37.5,31
+6225,Kargi,Eastern,Marsabit,Marsabit,FALSE,,2.49,37.56,39
+6226,Loyangalani,Eastern,Marsabit,Marsabit,FALSE,,2.76,36.72,39
+6229,Sololo,Eastern,Moyale,Marsabit,FALSE,,3.56,38.65,11
+6352,Wote town (Makueni),Eastern,Makueni,Makueni,FALSE,,-1.79,37.63,23
+6644,Griftu,North Eastern,Wajir,Wajir,FALSE,,2,39.75,60
+6645,Eldas,North Eastern,Wajir,Wajir,FALSE,,2.49,39.57,43
+6647,Tarbaj,North Eastern,Wajir,Wajir,FALSE,,2.21,40.12,46
+6648,Buna,North Eastern,Wajir,Wajir,FALSE,,2.79,39.5,7
+6650,Bute,North Eastern,Wajir,Wajir,FALSE,,3.36,39.42,35
+6651,Habaswein,North Eastern,Wajir,Wajir,FALSE,,1.02,39.49,36
+6655,Lagbogol,North Eastern,Wajir,Wajir,FALSE,,1.29,39.84,26
+6656,Hadado,North Eastern,Wajir,Wajir,FALSE,,1.53,39.43,41
+6887,Kaleng,Rift Valley,Turkana,Turkana,FALSE,,4.37,35.55,44
+6888,Lowarengak,Rift Valley,Turkana,Turkana,FALSE,,4.28,35.89,24
+6890,Kaikor,Rift Valley,Turkana,Turkana,FALSE,,4.52,35.42,35
+6891,Lokichoggio,Rift Valley,Turkana,Turkana,FALSE,,4.2,34.36,43
+6892,Lokipoto,Rift Valley,Turkana,Turkana,FALSE,,3.18,34.67,5
+6893,Lokiriama,Rift Valley,Turkana,Turkana,FALSE,,2.76,34.88,22
+6894,Lorugum,Rift Valley,Turkana,Turkana,FALSE,,2.88,35.25,29
+6895,Kalemunyang,Rift Valley,Turkana,Turkana,FALSE,,2.74,35.37,31
+6896,Nakukulas,Rift Valley,Turkana,Turkana,FALSE,,2.2,35.81,36
+6897,Lokori,Rift Valley,Turkana,Turkana,FALSE,,1.95,36.03,43
+6898,Katilia,Rift Valley,Turkana,Turkana,FALSE,,2.14,36.14,36
+6899,Naakalei,Rift Valley,Turkana,Turkana,FALSE,,2.54,36.22,29
+6902,Lokitaung,Rift Valley,Turkana,Turkana,FALSE,,4.27,35.75,35
+6903,Letea,Rift Valley,Turkana,Turkana,FALSE,,3.52,35.75,30
+6904,Kibish,Rift Valley,Turkana,Turkana,FALSE,,4.57,35.31,16
+10352,Jarajara,North Eastern,Garissa,Garissa,FALSE,,-0.04,39.01,27
+10353,Saka Town,Coast,Tana River,Tana River,FALSE,,-0.14,39.33,39
+10354,Alango Arba,North Eastern,Garissa,Garissa,FALSE,,-0.1,39.99,22
+10355,Damajale,North Eastern,Garissa,Garissa,FALSE,,0.1,40.78,14
+10356,Mathaxgesi,North Eastern,Garissa,Garissa,FALSE,,0.16,40.43,6
+10357,Saretho,North Eastern,Garissa,Garissa,FALSE,,-0.03,40.13,18
+10358,Dertu,North Eastern,Garissa,Garissa,FALSE,,0.28,39.8,31
+10359,Liboi,North Eastern,Garissa,Garissa,FALSE,,0.35,40.87,11
+10360,Korakora,North Eastern,Garissa,Garissa,FALSE,,-0.61,39.78,6
+10361,Nanigi,North Eastern,Garissa,Garissa,FALSE,,-0.85,39.87,28
+10362,Alinjugur,North Eastern,Garissa,Garissa,FALSE,,-0.03,40.46,20
+10363,Hara (Garissa),North Eastern,Ijara,Garissa,FALSE,,-1.85,40.23,5
+10365,Kotile,North Eastern,Ijara,Garissa,FALSE,,-1.97,40.21,4
+10366,Masalani,Coast,Tana River,Tana River,FALSE,,-1.7,40.17,13
+10367,Baraki,North Eastern,Garissa,Garissa,FALSE,,0.65,39.58,20
+10368,Benane,Eastern,Isiolo,Isiolo,FALSE,,0.5,38.66,38
+10369,Shanta Abak,North Eastern,Garissa,Garissa,FALSE,,0.46,39.74,28
+10370,Maalamin,North Eastern,Garissa,Garissa,FALSE,,0.38,39.35,30
+10371,Modogashe,Eastern,Isiolo,Isiolo,FALSE,,0.73,39.17,47
+10372,Kiwanja,Eastern,Meru North,Meru,FALSE,,0.44,37.6,15
+10374,Biliqo,Eastern,Isiolo,Isiolo,FALSE,,0.9,38.48,27
+10375,Bulesa Bulesa,Eastern,Isiolo,Isiolo,FALSE,,0.96,38.54,36
+10376,Kipsing CENTER,Eastern,Isiolo,Isiolo,FALSE,,0.6,37.25,25
+10377,Malka GALLA,Eastern,Isiolo,Isiolo,FALSE,,1.27,38.8,25
+10378,Merti CENTER,Eastern,Isiolo,Isiolo,FALSE,,1.07,38.67,43
+10379,Ngaremara,Eastern,Meru North,Meru,FALSE,,0.5,37.64,32
+10380,Oldonyiro,Eastern,Isiolo,Isiolo,FALSE,,0.62,36.99,43
+10381,Kinna,Eastern,Isiolo,Isiolo,FALSE,,0.32,38.21,6
+10382,Kulamawe,Eastern,Isiolo,Isiolo,FALSE,,0.57,38.2,3
+10383,Boji,Eastern,Isiolo,Isiolo,FALSE,,0.57,38.34,28
+10384,Garbatulla,Eastern,Isiolo,Isiolo,FALSE,,0.53,38.51,26
+10385,Iresaboru Centre,Eastern,Isiolo,Isiolo,FALSE,,0.99,38.88,12
+10386,Malkadaka,Eastern,Isiolo,Isiolo,FALSE,,0.84,38.5,28
+10387,Sericho Center,Eastern,Isiolo,Isiolo,FALSE,,1.13,39.1,28
+10389,Dzikunze,Coast,Kilifi,Kilifi,FALSE,,-3.25,39.75,1
+10390,Kachororoni,Coast,Kilifi,Kilifi,FALSE,,-3.48,39.75,5
+10391,Kaembeni,Coast,Kilifi,Kilifi,FALSE,,-3.33,39.79,6
+10392,Matanomanne,Coast,Kilifi,Kilifi,FALSE,,-3.4,39.78,7
+10393,Alungu,North Eastern,Mandera,Mandera,FALSE,,3.05,41.06,9
+10394,Suq Jini,North Eastern,Mandera,Mandera,FALSE,,3.15,41.18,5
+10395,Warankara,North Eastern,Mandera,Mandera,FALSE,,3.41,41.01,9
+10397,Wargadud,North Eastern,Mandera,Mandera,FALSE,,3.18,40.87,4
+10398,Banissa,North Eastern,Mandera,Mandera,FALSE,,3.94,40.34,28
+10399,Kiliwaheri,North Eastern,Mandera,Mandera,FALSE,,3.92,40.01,18
+10400,Ashabito,North Eastern,Mandera,Mandera,FALSE,,3.55,40.87,11
+10401,Kargi South Horr,Eastern,Marsabit,Marsabit,FALSE,,2.1,36.92,19
+10402,Ngurunit,Rift Valley,Samburu,Samburu,FALSE,,1.74,37.31,32
+10404,Loglogo,Eastern,Marsabit,Marsabit,FALSE,,1.99,37.92,23
+10406,Walda,Eastern,Moyale,Marsabit,FALSE,,3.45,38.52,4
+10407,Dambala Fachana,Eastern,Moyale,Marsabit,FALSE,,3.51,38.75,5
+10408,Dirib,Eastern,Marsabit,Marsabit,FALSE,,2.29,38.06,17
+10409,Dub Goba,Eastern,Marsabit,Marsabit,FALSE,,2.33,38.03,24
+10410,Songa,Eastern,Marsabit,Marsabit,FALSE,,2.25,38,24
+10411,Karare,Eastern,Marsabit,Marsabit,FALSE,,2.21,37.89,22
+10417,Ngilai,Rift Valley,Samburu,Samburu,FALSE,,1.15,37.26,15
+10421,Archers Post,Rift Valley,Samburu,Samburu,FALSE,,0.64,37.67,4
+10423,Lodungokwe,Rift Valley,Samburu,Samburu,FALSE,,0.87,37,27
+10425,Simale,Rift Valley,Samburu,Samburu,FALSE,,2.11,36.78,3
+10426,Baragoi,Rift Valley,Samburu,Samburu,FALSE,,1.65,37.03,37
+10428,Lesirkan,Rift Valley,Samburu,Samburu,FALSE,,1.78,36.97,20
+10430,Masikita,Rift Valley,Samburu,Samburu,FALSE,,1.61,36.95,5
+10431,Nachola,Rift Valley,Samburu,Samburu,FALSE,,1.8,36.7,8
+10433,Tuum,Rift Valley,Samburu,Samburu,FALSE,,2.15,36.77,2
+10434,Lolkunono,Rift Valley,Samburu,Samburu,FALSE,,1.08,36.6,18
+10435,Porro,Rift Valley,Samburu,Samburu,FALSE,,1.22,36.6,16
+10438,Bangale,Coast,Tana River,Tana River,FALSE,,-0.72,39.02,39
+10439,Bilbil,Coast,Tana River,Tana River,FALSE,,-1.01,39.79,16
+10440,Boka,Coast,Tana River,Tana River,FALSE,,-0.34,38.78,30
+10441,Adele Center,Coast,Tana River,Tana River,FALSE,,-0.47,39.61,4
+10442,Bura,Coast,Tana River,Tana River,FALSE,,-1.19,39.84,46
+10443,Charidende,Coast,Tana River,Tana River,FALSE,,-0.78,39.67,39
+10445,Makere,Coast,Tana River,Tana River,FALSE,,-1.33,40.01,39
+10446,Waldena,Coast,Tana River,Tana River,FALSE,,-1.61,39.03,4
+10447,Wayu,Coast,Tana River,Tana River,FALSE,,-1.53,39.58,34
+10448,Garsen,Coast,Tana River,Tana River,FALSE,,-2.27,40.11,34
+10449,Minjila,Coast,Tana River,Tana River,FALSE,,-2.32,40.11,13
+10450,Kipini,Coast,Tana River,Tana River,FALSE,,-2.53,40.53,33
+10451,Tarasaa,Coast,Tana River,Tana River,FALSE,,-2.44,40.17,44
+10452,Lorengipi,Rift Valley,Turkana,Turkana,FALSE,,2.58,34.99,3
+10453,Namoruputh,Rift Valley,Turkana,Turkana,FALSE,,2.84,35.04,24
+10454,Turkwel Centre,Rift Valley,Turkana,Turkana,FALSE,,2.92,35.4,25
+10455,Urum,Rift Valley,Turkana,Turkana,FALSE,,2.95,34.7,15
+10456,Loturerei,Rift Valley,Turkana,Turkana,FALSE,,2.93,35.61,34
+10457,Alemsekon,Rift Valley,Turkana,Turkana,FALSE,,3.53,34.82,23
+10458,Eliye Centre,Rift Valley,Turkana,Turkana,FALSE,,3.24,36.02,36
+10459,Elelea,Rift Valley,Turkana,Turkana,FALSE,,2.1,36.16,27
+10460,Aposta,Rift Valley,Turkana,Turkana,FALSE,,4.06,34.52,25
+10461,Kaakelai,Rift Valley,Turkana,Turkana,FALSE,,4.52,35.59,16
+10464,Kaeris,Rift Valley,Turkana,Turkana,FALSE,,3.98,35.48,33
+10465,Kalemgorok,Rift Valley,Turkana,Turkana,FALSE,,2.14,35.5,30
+10466,Kang'akipur,Rift Valley,Turkana,Turkana,FALSE,,2.38,36.04,6
+10467,Kasuroi,Rift Valley,Turkana,Turkana,FALSE,,2.48,35.66,8
+10468,Kataboi,Rift Valley,Turkana,Turkana,FALSE,,3.75,35.83,30
+10469,Kokuro,Rift Valley,Turkana,Turkana,FALSE,,4.62,35.71,27
+10489,Lokangae,Rift Valley,Turkana,Turkana,FALSE,,4.1,34.9,24
+10490,Lokapel,Rift Valley,Turkana,Turkana,FALSE,,2.37,35.42,26
+10491,Lokwii,Rift Valley,Turkana,Turkana,FALSE,,1.98,36.1,26
+10492,Lolupe,Rift Valley,Turkana,Turkana,FALSE,,3.54,35.25,36
+10493,Lopur,Rift Valley,Turkana,Turkana,FALSE,,3.86,34.82,31
+10494,Lotubae,Rift Valley,Turkana,Turkana,FALSE,,2.02,36.13,22
+10495,Morulem,Rift Valley,Turkana,Turkana,FALSE,,1.98,36.13,18
+10496,Naduat,Rift Valley,Turkana,Turkana,FALSE,,3.51,35.19,37
+10497,Nakinomet,Rift Valley,Turkana,Turkana,FALSE,,4.58,35.4,30
+10498,Napak,Rift Valley,Turkana,Turkana,FALSE,,4.56,35.39,30
+10499,Todonyang,Rift Valley,Turkana,Turkana,FALSE,,4.44,35.93,8
+10500,Kimalel Center,Rift Valley,Baringo,Baringo,FALSE,,0.47,35.9,7
+10501,Koriema,Rift Valley,Baringo,Baringo,FALSE,,0.46,35.86,6
+10502,Loboi Center,Rift Valley,Baringo,Baringo,FALSE,,0.36,36.06,10
+10503,Lororo Centre,Rift Valley,Baringo,Baringo,FALSE,,0.44,36,14
+10504,Amaya,Rift Valley,Baringo,Baringo,FALSE,,0.77,36.41,9
+10505,Chemolingot,Rift Valley,Baringo,Baringo,FALSE,,0.99,35.97,11
+10506,Nginyang,Rift Valley,Baringo,Baringo,FALSE,,0.95,36.02,13
+10507,Kibwezi,Eastern,Makueni,Makueni,FALSE,,-2.41,37.97,9
+10508,Mtito Andei,Coast,Taita Taveta,Taita-Taveta,FALSE,,-2.69,38.16,10
+10509,Emali,Eastern,Makueni,Makueni,FALSE,,-2.08,37.47,8
