@@ -71,7 +71,7 @@ This project uses the **Public Open Data Portal** approach (per the project guid
 - **Uneven density across years.** 2006–2020 averaged ~315 records/year; 2021 onwards has 3,000+/year due to expanded monitoring.
 - **One market missing coordinates.** Hola (Tana River) has null lat/long; excluded from map visuals.
 
-See [`docs/data_quality_report.md`](docs/data_quality_report.md) for the full data profile.
+See [`Docs/data_quality_report.md`](Docs/data_quality_report.md) for the full data profile.
 
 ---
 
@@ -86,7 +86,7 @@ See [`docs/data_quality_report.md`](docs/data_quality_report.md) for the full da
 
 1. Clone or download this repository
 2. Open `Kenya-Food-Prices.pbix` in Power BI Desktop
-3. Click **Refresh** in the Home ribbon to pull in the data from `data/wfp_food_prices_ken.csv`
+3. Click **Refresh** in the Home ribbon to pull in the data from `Data/wfp_food_prices_ken.csv`
 4. Navigate to the **Executive Overview** page
 5. Use the Year and County slicers to explore different time periods and regions
 
@@ -107,7 +107,7 @@ Kenya-Food-Prices-Capstone/
 ├── LICENSE                                # MIT
 ├── Kenya-Food-Prices.pbix                 # Main Power BI file
 │
-├── data/
+├── Data/
 │   ├── wfp_food_prices_ken.csv           # Raw WFP Kenya price data (source)
 │   ├── counties_bridge.csv                # Markets → modern counties + refugee flags
 │   ├── FactPrices.csv                     # Reference: cleaned fact table
@@ -115,7 +115,7 @@ Kenya-Food-Prices-Capstone/
 │   ├── DimMarket.csv                      # Reference: market dimension
 │   └── DimCommodity.csv                   # Reference: commodity dimension
 │
-├── docs/
+├── Docs/
 │   ├── data_quality_report.md             # Quality assessment + cleaning plan
 │   ├── star_schema_design.md              # Data model design + ER diagram
 │   ├── dax_measures_library.md            # All 35+ DAX measures
@@ -233,7 +233,7 @@ VAR NonCamp = CALCULATE([Avg Price Per Kg], DimMarket[IsRefugeeCamp] = FALSE)
 RETURN DIVIDE(Camp - NonCamp, NonCamp)
 ```
 
-The full library of 35+ measures is documented in [`docs/dax_measures_library.md`](docs/dax_measures_library.md).
+The full library of 35+ measures is documented in [`Docs/dax_measures_library.md`](Docs/dax_measures_library.md).
 
 ---
 
