@@ -299,7 +299,9 @@ For questions, suggestions, or collaboration: open an issue in this repo, or rea
 - [Kenya National Bureau of Statistics](https://knbs.or.ke)
 - [WFP Kenya Country Office](https://www.wfp.org/countries/kenya)
 - [FEWS NET Kenya](https://fews.net/east-africa/kenya)
-- [Medium Article — Twenty Years of Hunger](article/medium_article.md)
+- [Medium Article — Twenty Years of Hunger](https://medium.com/@jacintamaiyo/twenty-years-of-hunger-what-kenyas-food-price-data-reveals-about-a-crisis-we-ve-forgotten-6224f7be8c80)
+- Live Website - https://kenya-food-story.lovable.app
+  
 
 ---
 
