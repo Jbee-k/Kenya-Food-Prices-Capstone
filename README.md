@@ -286,7 +286,7 @@ Planned extensions if time and resources permit:
 
 ## Contact
 
-**Author:** Jay
+**Author:** Jacinta Kamemba
 **Email:** jacintamaiyo@gmail.com
 
 For questions, suggestions, or collaboration: open an issue in this repo, or reach out via email.
